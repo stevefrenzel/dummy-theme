@@ -1,4 +1,4 @@
-This is a test, let's see if it works!
+Commit from the feature branch, shouldn't appear in HubSpot!
 
 Add the license for your theme here.
 
