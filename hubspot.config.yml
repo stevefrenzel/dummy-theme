@@ -1,0 +1,14 @@
+defaultPortal: dummy-theme
+portals:
+  - name: dummy-theme
+    portalId: 26286685
+    authType: personalaccesskey
+    auth:
+      tokenInfo:
+        accessToken: >-
+          CMi23fTuMBILAAUAAAAAAEwAQAIY3bTEDCDFjbsWKO7pDDIUMudpvNX66FDJTYljJUrgf6Y8QyI6JgAABEEAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAPABAAABEQhQd8ghnEHmi2nruYnAKxc54Wyp_EEoDZXUxUgBaAA
+        expiresAt: '2023-03-17T08:02:22.153Z'
+    personalAccessKey: >-
+      CiRldTEtZmJjNy01NzJmLTRhYTQtYjEyNy02ODdlNDQxNzlhZjQQ3bTEDBjFjbsWKhkABeaRgqhPDgLcx5gbToBZf1ZoBfdA6nfrSgNldTE
+    sandboxAccountType: null
+    parentAccountId: null
