@@ -1,13 +1,14 @@
 {
-  "label": "",
+  "label": "Cool stuff!",
   "css_assets": [],
   "external_js": [],
   "global": false,
-  "help_text": "",
+  "help_text": "This is the helper text",
   "host_template_types": [],
+  "icon": "../../images/module-icons/menu.svg",
   "js_assets": [],
   "other_assets": [],
   "smart_type": "NOT_SMART",
   "tags": [],
-  "is_available_for_new_content": false
+  "is_available_for_new_content": true
 }
